@@ -3,7 +3,7 @@
 🚀 Full-time code whisperer, part-time wizard of web wonders. Crafting digital realms with lines of logic and splashes of creativity.
 🎮 Dedicated to debugging and designing. Turning passion into code and dreams into reality.
 💻 From databases to front-ends, I weave bits into bytes that do incredible things.
-🌌 Exploring the universe of software, one commit at a time. Seeking elegance in architecture, efficiency in execution, and joy in collaboration.
+🌌 Seeking elegance in architecture, efficiency in execution, and joy in collaboration.
 🎨 When not coding, you might find me immersed in sports, or plotting the next big side project.
 🔭 Let's build the future, one function at a time. Join me on this journey of bytes and beyond!
 
