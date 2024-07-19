@@ -1,8 +1,5 @@
 ## About me
 
-🎮 Committed to debugging and designing, transforming passion into high-quality code and innovative solutions.
-💻 Expert in both databases and front-end development, crafting sophisticated systems that deliver exceptional performance.
-🌌 Dedicated to achieving elegance in architecture, efficiency in execution, and fostering productive collaboration.
 
 ## Skill Sets
 
