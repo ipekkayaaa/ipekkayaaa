@@ -1,10 +1,14 @@
-# Ipek Kaya
 ![Profile views](https://komarev.com/ghpvc/?username=ipekkayaaa&color=blue)
 
+## Visit my web applications
+My Portfolio: http://www.ipekkaya.click.s3-website-us-east-1.amazonaws.com/
+Expenses Traker: https://nextjs-deploy-drab.vercel.app/
+
 ## GitHub Analytics
-![IbroTao's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=dark&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=dark&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=dark)
+![Ipek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=custom&bg_color=3f1055&text_color=f4f4f4&title_color=2799b2&icon_color=63d340&border_color=b2041c&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=custom&background=3f1055&stroke=2799b2&ring=63d340&fire=b2041&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=f4f4f4&sideLabels=f4f4f4&dates=f4f4f4&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=3f1055&text_color=f4f4f4&title_color=F2799b2&icon_color=63d340&border_color=b2041)
+
 
 ## Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
