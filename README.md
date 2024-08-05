@@ -1,9 +1,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=ipekkayaaa&color=blue)
 
-## Visit my web applications
-#Company site i work at <a href="https://www.apexinnovations.com/">Apex Innovations</a><br>
-#My Portfolio: <a href="http://www.ipekkaya.click.s3-website-us-east-1.amazonaws.com/">My Portfolio</a><br>
-#Expenses Tracker: <a href="https://nextjs-deploy-drab.vercel.app/">Expense Tracker</a>
+## Review My Contributions:
+Check out the company I work at: <a href="https://www.apexinnovations.com/">Apex Innovations</a><br>
+My Portfolio: <a href="http://www.ipekkaya.click.s3-website-us-east-1.amazonaws.com/">My Portfolio</a><br>
+Expenses Tracker: <a href="https://nextjs-deploy-drab.vercel.app/">Expense Tracker</a>
 
 ## GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=13153d&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=f4f4f4&card_width=300)
