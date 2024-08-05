@@ -6,8 +6,8 @@ Expenses Tracker: <a href="https://nextjs-deploy-drab.vercel.app/">https://nextj
 
 ## GitHub Analytics
 ![Ipek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=custom&bg_color=13153d&text_color=f4f4f4&title_color=c6ebe8&icon_color=63d340&border_color=f4f4f4&count_private=true&card_width=400)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=13153d&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=f4f4f4&card_width=400)
-![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=custom&background=13153d&stroke=2799b2&ring=c66111&fire=a4230e&currStreakNum=f4f4f4&sideNums=f4f4f4&currStreakLabel=f4f4f4&border_color=f4f4f4&sideLabels=f4f4f4&dates=f4f4f4&date_format=j%20M%5B%20Y%5D&width=400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=13153d&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=f4f4f4&card_width=200)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=custom&background=13153d&stroke=2799b2&ring=c66111&fire=a4230e&currStreakNum=f4f4f4&sideNums=f4f4f4&currStreakLabel=f4f4f4&border_color=f4f4f4&sideLabels=f4f4f4&dates=f4f4f4&date_format=j%20M%5B%20Y%5D&width=300)
 
 ## Tech Stack:
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
