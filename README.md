@@ -5,9 +5,9 @@ My Portfolio: http://www.ipekkaya.click.s3-website-us-east-1.amazonaws.com/
 Expenses Traker: https://nextjs-deploy-drab.vercel.app/
 
 ## GitHub Analytics
-![Ipek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=custom&bg_color=0c0f52&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=ace0e2&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=custom&background=0c0f52&stroke=2799b2&ring=c66111&fire=a4230e&currStreakNum=f4f4f4&sideNums=f4f4f4&currStreakLabel=f4f4f4&border_color=ace0e2&sideLabels=f4f4f4&dates=f4f4f4&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=0c0f52&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=ace0e2)
+![Ipek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=custom&bg_color=0b1281&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=f4f4f4&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=custom&background=0b1281&stroke=2799b2&ring=c66111&fire=a4230e&currStreakNum=f4f4f4&sideNums=f4f4f4&currStreakLabel=f4f4f4&border_color=f4f4f4&sideLabels=f4f4f4&dates=f4f4f4&date_format=j%20M%5B%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=custom&bg_color=0b1281&text_color=f4f4f4&title_color=519ed2&icon_color=63d340&border_color=f4f4f4)
 
 
 ## Tech Stack:
