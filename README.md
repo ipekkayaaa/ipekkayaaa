@@ -1,6 +1,22 @@
 ## About me
 
 
+
+![Profile views](https://komarev.com/ghpvc/?username=ipekkayaaa&color=blue)
+
+## GitHub Analytics
+
+![Ipek Kaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipekkayaaa&show_icons=true&theme=dark&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ipekkayaaa&theme=dark&date_format=j%20M%5B%20Y%5D)
+
+
+
+Vist my project sites:
+
+My Portfolio: http: //www.ipekkaya.click.s3-website-us-east-1.amazonaws.com/
+Expense Tracker: To visit the app: https://nextjs-deploy-drab.vercel.app/
+
 ## Skill Sets
 
 | Backend                                                   | Frontend                                                   | Ecosystem                                                                                                   |
