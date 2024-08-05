@@ -1,6 +1,6 @@
 ## About me
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipekkayaaa&layout=compact&theme=dark)
 
 ![Profile views](https://komarev.com/ghpvc/?username=ipekkayaaa&color=blue)
 
