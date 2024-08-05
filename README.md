@@ -1,4 +1,4 @@
-# IbroTao
+# Ipek Kaya
 ![Profile views](https://komarev.com/ghpvc/?username=ipekkayaaa&color=blue)
 
 ## GitHub Analytics
